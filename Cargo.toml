@@ -1,0 +1,12 @@
+[package]
+name = "steganosaurus"
+version = "0.1.0"
+authors = ["Jeremy Meadows <jeremybmeadows@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+#argparser = { path = "../argparser" }
+
+#[lib]
+#name = "argparser"
+#path = "../argparser/src/lib.rs"
